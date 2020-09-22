@@ -1,3 +1,4 @@
+# DEPRECATED
 # Rails Sidekiq Template
 
 Step 1 :
